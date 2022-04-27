@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: 'new(bug): Add_Title_Here'
-labels: bug
+labels: Help Needed
 assignees: RizonFTW, SerenModz21, 41LL0N, TheRealToxicDev
 
 ---
